@@ -221,11 +221,10 @@ void Error_Handler(void)
 ```
 
 ## Output screen shots of proteus  :
- 
- ![pg exp4 out 1](https://user-images.githubusercontent.com/121166390/235109659-026dcf7a-94dd-4e12-b8ea-85963e5d2213.png)
+![WhatsApp Image 2023-06-06 at 9 12 19 PM](https://github.com/Thirukaalathessvarar-S/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121166390/5acdb8e0-6b48-48af-a0d0-8fd1282a6254)
  
 ## Proteus Layout
-![image](https://github.com/Thirukaalathessvarar-S/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121166390/105a3d10-52b2-4003-b536-b1fcd6e0d0a1)
+![image](https://github.com/Thirukaalathessvarar-S/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121166390/374a2009-5d79-4c87-aec9-30f61e44af4b)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
